@@ -4,8 +4,8 @@
 
 1. Download & Install Docker Desktop [Docker Desktop](https://www.docker.com/products/docker-desktop/) 
 2. Run Docker Desktop 
-3. Clone or Download Repository [CSE3207-Database](https://github.com/ttytu/CSE3207-Database) 
-4. Open repo in IDE `cd CSE3207-Database` 
+3. Clone or Download Repository [CSE3207-Database](https://github.com/yejinyeo/Personalized-Movie-Recommendation-System)
+4. Open repo in IDE `cd Personalized-Movie-Recommendation-System` 
 5. Make sure ports 3307, 8001, 3001 are not preoccupied 
 6. Build Docker Image & Run Images in Containers `docker-compose up` 
 7. Happy coding! 
