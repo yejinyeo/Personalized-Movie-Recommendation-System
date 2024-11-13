@@ -25,7 +25,7 @@
 ### GitHub
 
 ```shell
-git clone https://github.com/ttytu/CSE3207-Database.git
+git clone https://github.com/yejinyeo/Personalized-Movie-Recommendation-System.git
 ```
 
 --- 
@@ -36,9 +36,9 @@ git clone https://github.com/ttytu/CSE3207-Database.git
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) 
 
 ```shell
-cd CSE3207-Database 
-docker-compose build 
-docker-compose up 
+cd Personalized-Movie-Recommendation-System
+docker-compose build
+docker-compose up
 ```
 
 #### Project Development Container Host Ports
