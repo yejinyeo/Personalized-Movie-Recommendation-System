@@ -1,4 +1,4 @@
-## CSE3207 Database Project
+## Personalized Movie Recommendation System Project
 
 ### Setup 
 
